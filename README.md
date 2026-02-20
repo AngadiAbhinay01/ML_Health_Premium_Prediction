@@ -1,14 +1,27 @@
 # 🏥 Healthcare Premium Prediction System
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Regression-green)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![XGBoost](https://img.shields.io/badge/XGBoost-Boosting-red)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-success)
 
-An end-to-end **Machine Learning project** that predicts **Annual Healthcare Insurance Premiums** based on customer demographic and financial attributes.
+An end-to-end **Machine Learning Regression Project** that predicts **Annual Healthcare Insurance Premiums** based on customer demographic and financial attributes.
 
-This project includes:
-- Data preprocessing & EDA  
-- Multiple regression model training  
-- Model evaluation & comparison  
-- Error analysis with reverse scaling  
-- Deployment-ready structure (Streamlit compatible)
+🔗 **Live App:**  
+https://mlhealthpremiumprediction.streamlit.app/
 
+---
+# 📌 Project Overview
+
+Insurance companies must accurately estimate annual premium amounts based on customer risk profiles.
+
+This project builds a complete ML pipeline to:
+
+- Analyze customer data  
+- Identify premium-driving factors  
+- Train multiple regression models  
+- Compare performance  
+- Deploy prediction system 
 ---
 
 ## 🚀 Features
@@ -127,23 +140,26 @@ To better understand model behavior:
 This improved model interpretability and business understanding.
 
 ---
-## ⚙️ Setup Instructions
 
-### 1️ Clone the Repository
+## Setup Instructions
 
-```bash
-git clone https://github.com/AngadiAbhinay01/ML_Health_Premium_Prediction.git
-cd healthcare-premium-prediction
-
-### **2 Install Dependencies**
-pip install -r requirements.txt
-
-### **3 Run Jupyter Notebook**
-jupyter notebook
-
-### **4 Run Streamlit App**
-https://mlhealthpremiumprediction.streamlit.app/
-
+1. **Clone the repository**:
+   ```bash
+   git clone .https://github.com/AngadiAbhinay01/ML_Health_Premium_Predictiongit
+   cd healthcare-premium-prediction
+   ```
+2. **Install dependencies:**:   
+   ```commandline
+    pip install -r requirements.txt
+   ```
+3. **Run jupyter notebook:**:   
+   ```commandline
+    jupyter notebook
+   ```
+4. **Run the Streamlit app:**:   
+   ```commandline
+    https://mlhealthpremiumprediction.streamlit.app/
+   ```
 ---
 
 ## 🛠 Tech Stack
@@ -189,10 +205,9 @@ https://mlhealthpremiumprediction.streamlit.app/
 
 📧 Email: angadiabhinay2001@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/abhinay-angadi-541004159  
-💻 GitHub: https://github.com/yourusername  
+💻 GitHub: https://github.com/AngadiAbhinay01
 
 ---
-
 ---
 
 ## ⭐ If You Found This Project Helpful
@@ -201,17 +216,3 @@ If you found this project useful or insightful, please consider giving it a ⭐ 
 Your support helps increase visibility and encourages further improvements!
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
