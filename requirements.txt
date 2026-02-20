@@ -1,6 +1,7 @@
+setuptools>=68.0.0
+wheel
 joblib==1.3.2
 pandas==2.0.2
-streamlit==1.22.0
-numpy==1.25.0
-scikit-learn==1.3.0
+streamlit==1.25.0
+numpy==1.26.0
 xgboost==2.0.3
